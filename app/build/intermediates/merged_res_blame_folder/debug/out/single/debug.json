@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-pngs-24:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-main-31:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\drawable_showpass.jpeg.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-main-31:\\drawable\\showpass.jpeg"
+    },
+    {
+        "merged": "com.example.apollodemo3.app-merged_res-29:/layout_login.xml.flat",
+        "source": "com.example.apollodemo3.app-main-31:/layout/login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\layout_register.xml.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-main-31:\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-main-31:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-pngs-24:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-pngs-24:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-pngs-24:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\layout_login.xml.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-main-31:\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-pngs-24:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-pngs-24:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-pngs-24:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\layout_home.xml.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-main-31:\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\drawable_hidepass.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-main-31:\\drawable\\hidepass.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Rutvik\\.gradle\\daemon\\7.4\\com.example.apollodemo3.app-debug-30:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    }
+]
